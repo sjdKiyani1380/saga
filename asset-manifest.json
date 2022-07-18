@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crudsaga/static/css/main.6b259e04.css",
+    "main.js": "/crudsaga/static/js/main.8448e2ed.js",
+    "index.html": "/crudsaga/index.html",
+    "main.6b259e04.css.map": "/crudsaga/static/css/main.6b259e04.css.map",
+    "main.8448e2ed.js.map": "/crudsaga/static/js/main.8448e2ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b259e04.css",
+    "static/js/main.8448e2ed.js"
+  ]
+}
